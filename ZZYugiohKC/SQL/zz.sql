@@ -10,7 +10,7 @@
  Target Server Version : 3030001
  File Encoding         : 65001
 
- Date: 04/02/2026 14:53:19
+ Date: 28/02/2026 11:52:42
 */
 
 PRAGMA foreign_keys = false;
@@ -5151,8 +5151,8 @@ INSERT INTO "datas" VALUES ('ZZ104428', 0, 0, 0, 4129, 1300, 1000, 4, 524288, 8,
 INSERT INTO "datas" VALUES ('ZZ104429', 0, 0, 0, 33, 2200, 1600, 6, 524288, 32, 0);
 INSERT INTO "datas" VALUES ('ZZ104430', 0, 0, 0, 33554465, 3200, 2800, 8, 524288, 32, 0);
 INSERT INTO "datas" VALUES ('ZZ104431', 0, 0, 0, 65538, 0, 0, 0, 0, 0, 0);
-INSERT INTO "datas" VALUES ('ZZ104432', 0, 0, 0, 33554465, 2600, 2000, 5, 2, 8, 0);
-INSERT INTO "datas" VALUES ('ZZ104433', 0, 0, 0, 33554465, 2400, 3200, 6, 1, 8, 0);
+INSERT INTO "datas" VALUES ('ZZ104432', 0, 0, 0, 33, 2600, 2000, 5, 2, 8, 0);
+INSERT INTO "datas" VALUES ('ZZ104433', 0, 0, 0, 33, 2400, 3200, 6, 1, 8, 0);
 INSERT INTO "datas" VALUES ('ZZ104434', 0, 0, 0, 33, 2900, 1600, 7, 1, 2, 0);
 INSERT INTO "datas" VALUES ('ZZ104435', 0, 0, 0, 33, 2400, 2100, 6, 1, 2, 0);
 INSERT INTO "datas" VALUES ('ZZ104436', 0, 0, 0, 33, 3000, 2600, 8, 4, 16, 0);
@@ -8619,6 +8619,152 @@ INSERT INTO "datas" VALUES ('ZZ107185', 0, 0, 0, 33, 3000, 2700, 8, 4, 16, 0);
 INSERT INTO "datas" VALUES ('ZZ107186', 0, 0, 0, 97, 3800, 3200, 9, 2, 4, 0);
 INSERT INTO "datas" VALUES ('ZZ107187', 0, 0, 0, 33, 4000, 4000, 10, 16384, 32, 0);
 INSERT INTO "datas" VALUES ('ZZ107188', 0, 0, 0, 17, 500, 900, 2, 8, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107189', 0, 0, 0, 65538, 0, 0, 0, 0, 0, 0);
+INSERT INTO "datas" VALUES ('ZZ107190', 0, 0, 0, 8225, 3000, 2500, 10, 4096, 16, 0);
+INSERT INTO "datas" VALUES ('ZZ107191', 0, 0, 0, 262146, 0, 0, 0, 0, 0, 0);
+INSERT INTO "datas" VALUES ('ZZ107192', 0, 0, 0, 262146, 0, 0, 0, 0, 0, 0);
+INSERT INTO "datas" VALUES ('ZZ107193', 0, 0, 0, 33, 2700, 2900, 7, 1, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107194', 0, 0, 0, 33, 3000, 2800, 7, 1, 64, 0);
+INSERT INTO "datas" VALUES ('ZZ107195', 0, 0, 0, 33, 1300, 1700, 4, 2, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107196', 0, 0, 0, 33, 2500, 1200, 6, 2, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107197', 0, 0, 0, 33, 2500, 1200, 6, 2, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107198', 0, 0, 0, 33, 3600, 3000, 9, 8, 4, 0);
+INSERT INTO "datas" VALUES ('ZZ107199', 0, 0, 0, 33, 3600, 3200, 9, 4, 16, 0);
+INSERT INTO "datas" VALUES ('ZZ107200', 0, 0, 0, 33, 2600, 2300, 6, 4, 16, 0);
+INSERT INTO "datas" VALUES ('ZZ107536', 0, 0, 0, 33554465, 2200, 1400, 6, 8192, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107537', 0, 0, 0, 130, 0, 0, 0, 0, 0, 0);
+INSERT INTO "datas" VALUES ('ZZ107538', 0, 0, 0, 130, 0, 0, 0, 0, 0, 0);
+INSERT INTO "datas" VALUES ('ZZ107539', 0, 0, 0, 161, 3900, 3100, 9, 1, 8, 0);
+INSERT INTO "datas" VALUES ('ZZ107540', '', '', '', 161, 3300, 2000, 8, 1, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107541', '', '', '', 33, 2000, 1400, 6, 1, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107542', '', '', '', 4129, 0, 0, 4, 8192, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107543', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107544', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107545', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107546', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107547', '', '', '', 1048580, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107548', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107549', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107550', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107551', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107552', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107553', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107554', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107555', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107556', '', '', '', 33, 1200, 800, 3, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107557', '', '', '', 33, 500, 1500, 3, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107558', '', '', '', 33, 1000, 1000, 3, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107559', '', '', '', 33, 2800, 1000, 6, 1, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107560', '', '', '', 33, 2400, 500, 6, 1, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107561', '', '', '', 97, 3200, 3000, 8, 32, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107562', '', '', '', 33, 3200, 3000, 5, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107563', '', '', '', 33, 2000, 0, 4, 8, 32, '');
+INSERT INTO "datas" VALUES ('DMB00014', '', '', '', 33, 2300, 500, 6, 8, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107564', '', '', '', 17, 300, 500, 1, 1, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107565', '', '', '', 33554465, 2600, 0, 8, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107566', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107567', '', '', '', 33, 300, 700, 4, 2, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107568', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107569', '', '', '', 131074, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107570', '', '', '', 33, 1300, 1800, 4, 16384, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107571', '', '', '', 33, 300, 500, 4, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107572', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107573', '', '', '', 33, 1200, 1000, 4, 16, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107574', '', '', '', 33, 800, 500, 4, 16, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107575', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107576', '', '', '', 17, 2400, 1800, 5, 32768, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107577', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107578', '', '', '', 33, 2600, 2300, 8, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107579', '', '', '', 33, 500, 1200, 3, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107580', '', '', '', 33, 1500, 1300, 4, 512, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107581', '', '', '', 33, 1800, 1500, 4, 16384, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107582', '', '', '', 33, 1200, 800, 3, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107583', '', '', '', 33, 700, 700, 4, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107584', '', '', '', 33, 1200, 900, 4, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107585', '', '', '', 131074, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107586', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107587', '', '', '', 8225, 2700, 2000, 9, 8192, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107588', '', '', '', 8225, 2300, 1400, 6, 8192, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107589', '', '', '', 33, 2400, 1000, 6, 64, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107590', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107591', '', '', '', 8388641, 2500, 2600, 4, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107592', '', '', '', 8388641, 900, 900, 1, 8192, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107593', '', '', '', 33, 1800, 600, 3, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107594', '', '', '', 8225, 2800, 2500, 8, 2, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107595', '', '', '', 33, 2800, 2500, 8, 4096, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107596', '', '', '', 33, 2100, 2300, 6, 4096, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107597', '', '', '', 33, 2800, 2000, 7, 4096, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107598', '', '', '', 33, 1200, 300, 4, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107599', '', '', '', 33, 1000, 1000, 4, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107600', '', '', '', 8388641, 3500, 3000, 6, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107601', '', '', '', 8388641, 2100, 1800, 4, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107602', '', '', '', 8388641, 2000, 2000, 4, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107603', '', '', '', 33, 1800, 1400, 5, 8192, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107604', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107605', '', '', '', 33554465, -5, -5, 12, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107606', '', '', '', 33554465, 700, 800, 5, 8, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107607', '', '', '', 33, 300, 200, 2, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107608', '', '', '', 33, 300, 200, 2, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107609', '', '', '', 33, 300, 200, 2, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107610', '', '', '', 33, 300, 200, 2, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107611', '', '', '', 33, 300, 200, 2, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107612', '', '', '', 33, 0, 0, 5, 4, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107613', '', '', '', 8388641, 4300, 4900, 8, 8192, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107614', '', '', '', 8388641, 4000, 4300, 8, 8192, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107615', '', '', '', 8388641, 4000, 4500, 9, 8192, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107616', '', '', '', 33, 2800, 2700, 8, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107617', '', '', '', 33, 2900, 1500, 7, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107618', '', '', '', 33, 3000, 2400, 8, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107619', '', '', '', 8388641, 3200, 2300, 8, 32, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107620', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107621', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107622', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107623', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107624', '', '', '', 8388641, 2500, 1800, 7, 256, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107625', '', '', '', 8388641, 2300, 2000, 6, 256, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107626', '', '', '', 8388641, 1700, 2200, 5, 256, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107627', '', '', '', 33, 1800, 1500, 5, 32768, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107628', '', '', '', 97, 2800, 2000, 7, 16384, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107629', '', '', '', 8388641, 3300, 2600, 9, 8192, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107630', '', '', '', 97, 3000, 2600, 8, 8192, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107631', '', '', '', 33, 2300, 1600, 6, 8192, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107632', '', '', '', 33, 1800, 1400, 4, 8192, 4, '');
+INSERT INTO "datas" VALUES ('ZZ107633', '', '', '', 33, 2700, 1600, 7, 262144, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107634', '', '', '', 33, 900, 600, 2, 64, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107635', '', '', '', 8388641, 2000, 1000, 5, 32, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107636', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107637', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107638', '', '', '', 33, 3300, 1800, 7, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107160', 0, 0, 0, 17, 1300, 1000, 4, 16384, 32, 0);
+INSERT INTO "datas" VALUES ('ZZ107639', '', '', '', 97, 4000, 2800, 10, 32, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107640', '', '', '', 8225, 3100, 2000, 9, 1, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107641', '', '', '', 97, 3300, 2800, 8, 2, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107642', '', '', '', 33, 1800, 1700, 5, 8192, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107643', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107644', '', '', '', 33, 3000, 3500, 8, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107645', '', '', '', 33, 2500, 1800, 6, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107646', '', '', '', 2097185, 2000, 1500, 4, 1, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107647', '', '', '', 33, 1700, 1000, 4, 32768, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107648', '', '', '', 8388641, 3200, 2500, 8, 1, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107649', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107650', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107651', '', '', '', 33, 2800, 2500, 7, 1, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107652', '', '', '', 33, 2500, 2700, 7, 64, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107653', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('ZZ107654', '', '', '', 33, 2800, 2800, 8, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107655', '', '', '', 8225, 2500, 1500, 7, 512, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107656', '', '', '', 65, 1800, 1600, 5, 1, 4, '');
+INSERT INTO "datas" VALUES ('ZZ107657', '', '', '', 17, 1900, 1500, 4, 32768, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107658', '', '', '', 2097185, 500, 1500, 3, 2, 8, '');
+INSERT INTO "datas" VALUES ('ZZ107659', '', '', '', 2097185, 500, 1500, 3, 2, 1, '');
+INSERT INTO "datas" VALUES ('ZZ107660', '', '', '', 2097185, 500, 1500, 3, 2, 2, '');
+INSERT INTO "datas" VALUES ('ZZ107661', '', '', '', 2097185, 500, 1500, 3, 2, 4, '');
+INSERT INTO "datas" VALUES ('ZZ107662', '', '', '', 33, 2200, 1900, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107663', '', '', '', 33, 2300, 2000, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107664', '', '', '', 33, 2100, 2200, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107665', '', '', '', 33, 2200, 2100, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107666', '', '', '', 33, 2300, 1800, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('ZZ107667', '', '', '', 2, -4, -4, 0, 0, 0, '');
 
 -- ----------------------------
 -- Table structure for texts
@@ -18064,7 +18210,7 @@ INSERT INTO "texts" VALUES ('ZZ104399', '王之墓穴', '我方怪兽被对手�
 INSERT INTO "texts" VALUES ('ZZ104402', '千年墓守 黑暗赠与', '我方抽到此卡时，可在对手场地上特殊召唤此卡，只要此卡存在对手场地上，对手场地上等级高于此怪兽的怪兽全送往墓地，此卡召唤成功的回合，对手不能对此怪兽发动魔法·陷阱卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ104403', '千年墓守 尼罗河神', '支付我方一半的生命值，无视召唤条件特殊召唤此卡，此卡召唤成功时，破坏对手场地上所有魔法·陷阱卡，1回合1次，此卡可以直接攻击对手决斗者，此卡存在我方场地上，没有破坏对手怪兽时，将此卡送往墓地，从手牌中特殊召唤1只等级8的怪兽到场地上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ104404', '千年墓守 冥界骑士', '此卡用冠有「千年墓守」之名的怪兽效果特殊召唤成功时，可以把对手墓地的1张卡从游戏中除外。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('ZZ104405', '千年墓守 冥界将星', '只要此卡在场地上正面表示存在，对手不能选择其他正面表示存在的战士族怪兽作为攻击对象，此卡召唤成功时，可以从墓地特殊召唤1只「千年墓守 冥界骑士」到场地上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ104405', '千年墓守 冥王将星', '只要此卡在场地上正面表示存在，对手不能选择其他正面表示存在的战士族怪兽作为攻击对象，此卡召唤成功时，可以从墓地特殊召唤1只「千年墓守 冥界骑士」到场地上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ104406', '千年墓守 胡狼巡兵', '只要此卡以正面表示存在我方场地上时，对手不能选择我方其他正面表示的怪兽作为攻击对象。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ104407', '千年墓守 胡狼兽将', '此卡被对手怪兽效果破坏时，可选择对手手牌中的1张卡送往墓地。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ104408', '千年墓守 胡狼骑士', '此卡存在我方场上上时，可以将我方墓地中1只冠有「千年墓守」之名的怪兽拿回到牌组，此回合的结束阶段，将该卡召唤到场地上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
@@ -24736,5 +24882,185 @@ INSERT INTO "texts" VALUES ('ZZ107186', '枫林狩猎王·火灵使', '冠有「
 此卡只能以融合召唤来特殊召唤，成功召唤时，对手场地上的魔法卡·水属性怪兽效果无效化，我方场地上每存在1只冠有「枫林狩猎」之名的怪兽时，破坏对手场地上1只水属性怪兽，并给对手生命值被破坏怪兽的等级数×200点的伤害。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ107187', '极星邪狼 魔狼芬里尔', '我方的主阶段，我方可以从我方手牌以正面守备表示特殊召唤此卡到对手的场地上，发动此效果的回合，我方不能通常召唤和设置怪兽，在每次的准备阶段，所以的怪兽都改变表示形式，对手场地上没有存在正面表示冠有「极星」之名的怪兽时，此卡被破坏，其中一方受到此卡的战斗伤害时，双方受到相同的伤害。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('ZZ107188', '冥界的蓝色恶魔', '栖息于冥界深渊的蓝色恶魔，头戴南瓜头冠身披泛邪异的靛蓝重甲，能将生者的魂魄拖入永恒的黑暗之中。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107189', '神之降临', '①：自己场上没有幻神兽族的怪兽存在的场合，把这张卡从手卡丢弃才能发动。
+把1只幻神兽族怪兽上级召唤。那个时候，也能作为自己场上的怪兽的代替而把对方场上的怪兽解放。
+②：自己场上没有幻神兽族的怪兽存在的场合，把墓地的这张卡除外才能发动。
+以自己或对方的墓地1只幻神兽族怪兽为对象才能发动。那只怪兽在自己场上特殊召唤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107190', '电气神龙', '「电气」调整＋调整以外的雷族怪兽1只以上
+这个卡名的②的效果1回合只能使用1次。
+①：这张卡可以直接攻击。
+②：这张卡直接攻击给与对方战斗伤害时才能发动。从卡组选3张3星以下的「电气」怪兽加入手卡。之后洗切卡组。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107191', '魔导噬魂剑', '此卡只能给冠有「魔导」之名的战士族怪兽装备，装备此卡的怪兽攻击力上升300点，装备此卡的怪兽和对手的怪兽战斗时，在战斗阶段中对手怪兽的效果无效化。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107192', '魔导玄冥刀', '此卡只能给冠有「魔导」之名的战士族怪兽装备，装备此卡的怪兽攻击力上升500点，装备此卡的怪兽发动效果时，对手不能针对此次发动的效果使用魔法·陷阱·效果怪兽的效果。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107193', '魔导战士·混棍牛王', '此卡必须献祭我方场地上2只等级4冠有「魔导」之名的怪兽才能特殊召唤，此卡召唤成功时，我方场地上正面表示冠有「魔导」之名的怪兽，攻击力上升500点，1回合1次，当对手发动卡片效果时，从我方牌组抽1张卡片送往墓地，无效该对手的卡片效果并破坏该卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107194', '魔导战士·钉耙使者', '此卡必须献祭我方场地上2只等级4冠有「魔导」之名的怪兽才能特殊召唤，此卡召唤成功时，我方场地上正面表示冠有「魔导」之名的怪兽，等级上升1或2，1回合1次，此卡攻击对手守备表示怪兽时，可以不进行伤害计算破坏该怪兽。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107195', '魔导术士·掘墓忍者', '此卡召唤成功时，破坏对手场地上1张怪兽卡并送往墓地，1回合1次，选择确认对手场地上盖放的1张卡，对手不能对此效果发动魔法·陷阱卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107196', '魔导破坏者', '我方墓地存在此卡时，我方可以把3张存在我方墓地冠有「魔导书」之名的魔法卡从游戏中除外，然后把此卡从我方墓地里特殊召唤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107197', '魔导破坏王', '我方墓地存在此卡时，我方可以把3张存在我方墓地冠有「魔导书」之名的魔法卡从游戏中除外，然后把此卡从我方墓地里特殊召唤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107198', '熔岩魔神·火焰巨人', '此卡只能献祭我方场地上合计等级9的炎属性怪兽来特殊召唤，此卡特殊召唤成功时，我方可以选择破坏对方场地上除炎属性外合计等级9的怪兽，此卡以正面表示存在我方场地上且我方场地上没有除此卡外的怪兽存在时，我方在每个主要阶段时生命值受到1000点损害。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107199', '银翼 大天使加百列', '此卡以冠有「银翼」之名的怪兽效果特殊召唤成功时，对手怪兽攻击我方怪兽时的攻击无效，结束对手回合，然后我方场地上每存在1只冠有「银翼」之名的怪兽，对手受到300点生命值伤害，我方生命值上升对手生命值所收到的伤害数值。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107200', '银翼 力天使巴比勒', '此卡以冠有「银翼」之名的怪兽效果特殊召唤成功时，只要此卡在场地上以正面表示存在，所有场地上的怪兽变成正面攻击表示，且表示形式不能改变，1回合1次，对手的手牌给我方确认，每有1张恶魔族怪兽，此卡攻击力上升300点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107536', '罪 白角龙', '这张卡不能通常召唤。从卡组把1只「白角龙」除外的场合可以特殊召唤。
+①：「罪」怪兽在场上只能有1只表侧表示存在。
+②：这张卡召唤·特殊召唤成功的场合，以对方墓地最多5张魔法卡为对象发动。那些卡除外，这张卡的攻击力上升那些除外的卡数量×300。
+③：只要这张卡在怪兽区域存在，其他的自己怪兽不能攻击宣言。
+④：没有场地魔法卡表侧表示存在的场合这张卡破坏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107537', '传说的召唤场·火焰', '仪式召唤「传说战士」降临的必要魔法卡，成功召唤怪兽时，给对手场地上炎属性怪兽的数量×300点的生命值伤害。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107538', '传说的召唤场·生灵', '仪式召唤「传说战士」降临的必要魔法卡，成功召唤怪兽时，恢复我方生命值500点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107539', '传说战士·古埃及勇士', '藉由冠有「传说的召唤场」之名的魔法卡来降临，须献祭场地上或手牌中等级合计9以上冠有「传说」之名的怪兽，此卡以正面表示存在我方场地上才能发动效果，1回合1次，可以使对手和我方怪兽战斗的怪兽，在战斗阶段该怪兽的攻击·守备力互换，此效果在双方的回合都能发动，此卡被破坏时可以用冠有「传说」之名的守备怪兽来代替被破坏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107540', '传说战士·北欧女海盗', '藉由冠有「传说的召唤场」之名的魔法卡来降临，须献祭场地上或手牌中等级合计8以上冠有「传说」之名的怪兽，此卡以正面表示存在我方场地上才能发动效果，1回合1次，对手场地上1只战士族怪兽的攻击力为0，我方场地上水属性怪兽攻击力上升对手该怪兽攻击力的数值，此卡被破坏时，破坏我方冠有「传说」之名的守备怪兽来代替破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107541', '传说战士·金银岛海盗', '我方生命值低于2000时才能召唤，此卡召唤成功时，我方生命值恢复500点，只要此卡以正面表示存在我方场地上，对手每召唤1只怪兽，我方生命值恢复200点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107542', '黑龙圣遗物', '这张卡召唤成功的场合，选择我方墓地1只「真红眼黑龙」在我方场上特殊召唤，这个效果特殊召唤的怪兽，当此卡在场上存在的场合，攻击力·守备力变成0。此外，1回合只有1次，可以把手牌1张名字带有「真红眼」的怪兽送去墓地，墓地存在的「真红眼圣遗物」加入我方手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107543', '智慧守备部3', '把自己场上存在1只名字带有「神智守备部」的怪兽送去墓地，把手牌的1只「神智守备部3」在自己场上特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107544', '天空攻击部3', '把自己场上存在1只名字带有「神空攻击部」的怪兽送去墓地，把手牌的1只「神空攻击部3」在自己场上特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107545', '五石散药', '把对方1只怪兽的攻击力减半。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107546', '鬼带符-张鲁', '场上存在的怪兽全部破坏。那之后，双方从卡组上面把5张卡翻开，把那之中的4星以下的怪兽全部背面守备表示特殊召唤，那以外的卡全部加入手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107547', '绮罗香囊', '对方破坏我方场上魔法/陷阱卡时，我方场上全部怪兽攻击力上升1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107548', '琴', '选择自己场上2只怪兽才能发动。选择的怪兽攻击力上升2000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107549', '双铁戟-典韦', '装备此卡的怪兽攻击力上升1500点。如果给「典韦」装备，攻击力上升2000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107550', '雌雄一对剑-刘备', '装备怪兽攻击背面守备表示怪兽的场合，装备怪兽的攻击力上升1000点。如果给「刘备」装备，攻击力上升1500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107551', '耳坠', '装备此卡的怪兽被对方从场上送去墓地的场合，可以选择自己墓地存在的1只美属性怪兽加入手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107552', '太平要术-张角', '此卡在场上存在时，对方不能发动魔法/陷阱卡。1回合1次，让我方一只怪兽变成背面守备表示。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107553', '三丈矛-步兵', '装备怪兽的攻击力上升1000点。2个回合内对方玩家不能发动魔法/陷阱卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107554', '锯齿刀', '装备怪兽的攻击力上升1200点。装备此卡的怪兽每次对方回合可使装备怪兽变成背面守备表示。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107555', '朝鲜人参', '将我方场上1只怪兽破坏，我方生命值回复其攻击力数值。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107556', '枫林的武器·刃', '此卡以正面表示存在我方场地上时，从下列效果选择1项发动：·1回合1次，对手场地上存在的怪兽卡数量比我方多时，可以把对手场地上的怪兽破坏，直到对手场地上存在的怪兽卡数量变成我方场地上存在的怪兽卡数量相同。·对手的怪兽不能发动怪兽效果。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107557', '枫林的武器·盾', '此卡以正面表示存在我方场地上时，从下列效果选择1项发动：·我方场地上冠有「枫林的武器」之名的怪兽不会被破坏。·1回合1次，对手怪兽攻击我方怪兽时的攻击无效。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107558', '枫林的武器·魔杖', '此卡以正面表示存在我方场地上时，从下列效果选择1项发动：·对手的下一个回合不能从牌组抽牌。·对手的下一个回合不能发动攻击。·对手的下一个回合不能发动魔法/陷阱卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107559', '枫林狩猎者·风速人', '此卡需献祭1只冠有「枫林的武器」之名的怪兽来特殊召唤，此卡每破坏对手1只怪兽，此卡攻击力上升300点，1回合1次，可以献祭1只存在我方场地上除此卡以外冠有「枫林狩猎者」之名的怪兽，然后选择对手场地上存在的1张卡回到持有者牌组并重洗对手牌组。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107560', '枫林狩猎者·潜入者', '此卡需献祭1只冠有「枫林的武器」之名的怪兽来特殊召唤，特殊召唤成功时，把此卡以正面表示混入对手的牌组，然后重新洗牌，对手抽到此卡时，给对手生命值1000点伤害，此卡以正面守备表示特殊召唤到对手场地上，对手不能改变此卡的表示形式，也不受魔法·陷阱卡·怪兽效果影响。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107561', '枫林狩猎王·龙骑士', '冠有「枫林狩猎者」和「枫林的武器」之名的卡各1张
+此卡只能以融合召唤来特殊召唤。此卡在双方的战斗阶段中可以任意转换攻击或守备表示，1回合1次，我方场地上冠有「枫林狩猎者」之名的怪兽不会被对手破坏。此卡进行战斗的战斗阶段结束时，可让此卡回到融合牌组来代替被破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107562', '传说战士·拉丁女斗士', '1 回合 1 次，选择我方场地上 1 只怪兽，并强制对手场地上 1 只暗属性怪兽发动攻击我方被选择的怪兽，我方生命值上升被攻击怪兽与发动攻击的怪兽攻击力的差值，对手生命值则下降该数值。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107563', '夜魔 征伐の使魔', '我方场地上以正面表示存在的此卡被战斗破坏送入墓地时，可选择我方场地上存在的1只怪兽，对对方控制者进行直接攻击。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('DMB00014', '轰击风魔', '此卡因魔法效果而送进墓地时，该回合的结束阶段时特殊召唤回己方场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107564', '拇指小子', '攻击力虽然低却蕴含着恐怖的力量，不能小看。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107565', '绿巨人', '此卡只能通过「巨人的修行」的效果特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107566', '巨人的修行', '将场上1只「拇指小子」作为祭品，从卡组·手牌特殊召唤「绿巨人」1只。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107567', '藤蔓公主', '此卡只能在「100年的觉醒」的效果下特殊召唤，此卡召唤成功后可获得对方场上1只怪兽的永久控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107568', '100年的觉醒', '将自己场上1张正面表示的「藤蔓的诅咒」作为祭品，从自己卡组·手牌特殊召唤1张「藤蔓的公主」正面攻击表示上场。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107569', '藤蔓的诅咒', '选择对方墓地里1只怪兽，只要此卡在场，被选择的怪兽效果无效。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107570', '南瓜马车', '此卡不能在「灰姑娘」以外的卡效果下特殊召唤。此卡不会被战斗破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107571', '灰姑娘', '此卡召唤成功时可从卡组·手牌·墓地以守备表示特殊召唤出「南瓜马车」1只。限此卡在场，可从卡组·手牌·墓地直接发动装备魔法卡「水晶鞋」并装备。只要「南瓜马车」存在于我方场上，此卡可直接攻击对方玩家。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107572', '水晶鞋', '此卡只能在「灰姑娘」的效果下发动，发动后装备给「灰姑娘」。装备后的「灰姑娘」给予对方战斗伤害时，可以选择将此卡装备到对方怪兽身上。这时装备怪兽的攻击力下降1000点，并无法将「灰姑娘」选为攻击对象。装备的对方，破坏时，此卡会重新装备给「灰姑娘」，并攻击力提升1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107573', '不死狼人', '此卡被战斗破坏时，可以从卡组特殊召唤此卡同名卡。每次由于这个效果特殊召唤成功的时候，这张卡的攻击力上升500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107574', '吸血鬼蝙蝠', '此卡被破坏的场合，从卡组将此卡的同名卡送入墓地，这张卡被破坏的效果无效。只要这张卡在场上存在，自己场上全部的不死族怪兽的攻击力上升200点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107575', '不死王国地狱瓦尼亚', '将手牌中的1只不死族怪兽送入墓地，场上全部怪兽破坏。这个效果发动后，不能对怪兽进行通常召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107576', '千年墓守 阿努比斯', '冥界和亡者之神的阿努比斯长者一颗胡狼头，他是埃及神话中亡灵的引导者和守护者，掌管和守护亡者的灵魂，还负责审判之秤的称量工作，将死者的心脏与真理的羽毛放在秤上，如果心脏比羽毛轻或一样重就可以上天堂，反之会被魔鬼吃掉。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107577', '神之审判', '对手成功召唤怪兽时，可发动此卡，若对手召唤的怪兽攻击力超过守备力，给对手生命值该超过数值的伤害，若对手召唤的怪兽守备力超过攻击力，恢复我方生命值该超过的数值。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107578', '海神 多尔涅', '此卡每战斗破坏1只怪兽，攻击力上升400点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107579', '小红帽', '当此卡被战斗破坏时，可以从卡组特殊召唤等级4以下战士族1只。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107580', '怪鸟葛莱弗', '此卡召唤成功后可选择破坏对方场上魔法陷阱区1张卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107581', '森林之狼', '此卡战斗破坏对方怪兽时，被破坏怪兽不会送到墓地，当做装备卡装备到此卡上，此时可当做2只祭品。当此卡破坏时，装备此卡的被破坏对方怪兽特殊召唤回对方场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107582', '森林猎人', '当此卡召唤·反转召唤·特殊召唤成功时可将场上1只兽族·兽战士族怪兽移除到游戏外。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107583', '铁之骑士', '当我方场上不存在「铁侠客」时，此卡攻击力增加1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107584', '铁侠客', '当此卡召唤·反转召唤·特殊召唤成功时可以从手牌·卡组以攻击表示特殊召唤1只「铁之骑士」到场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107585', '铁之牢狱', '将场上1只怪兽送入墓地，到自己下回合准备阶段时，该怪兽会回到原持有者的场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107586', '神圣祭品', '将战斗中发生的所有损伤，全部转移到一只怪兽身上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107587', '冰结界之龙 三叉龙', '调整＋调整以外的怪兽2只以上
+这张卡同调召唤成功时，可以把对方的手牌·场上·墓地的卡各最多1张从游戏中除外。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107588', '冰结界之龙 光枪龙', '调整＋调整以外的怪兽1只以上
+将自己手牌任意数量丢弃去墓地发动。那之后，场上存在的送去墓地数量的卡回到持有者手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107589', '冰帝 美比乌斯', '这张卡祭品召唤成功时，可以选择场上的最多2张魔法·陷阱卡破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107590', '传说骑士 解除的封印', '我方场地上存在冠有「传说骑士」之名的怪兽时，可以发动此卡，此卡只能给冠有「传说骑士」之名的怪兽装备，装备怪兽最多可以融合对手场地上3只怪兽，每融合1只怪兽攻击力上升1000点，成功破坏对手的1只怪兽时，破坏对手所有手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107591', '只眼的技能捕获者', '等级4的怪兽×3
+可以移除此卡的1个超量素材，然后选择对方场地上1只超量怪兽发动效果，此卡视为被选择怪兽的同名卡，并获得相同的效果，此卡在场上以正面表示存在时此效果只能使用1次。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107592', '宝贝虎龙', '1星怪兽×3
+自己的主要阶段1把这张卡1个超量素材取除，选择自己场上正面表示存在的1只1星的怪兽才能发动。选择的怪兽可以直接攻击对方玩家。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107593', '我我我凯撒大帝', '我方场上没有此卡以外名字带有「我我我」的怪兽时，此卡不能攻击。1回合1次，可以将我方墓地里1只怪兽除外，然后我方场上所有名字带有「我我我」的怪兽的等级都变为与除外怪兽相同的数值。此卡不能作为同调素材。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107594', '魔力吸收者', '魔法师族调整＋调整以外的怪兽1只以上
+1回合1次，宣言1个魔法·陷阱卡的种类。直到下次的对方回合的结束阶段前，对方不能把宣言的种类的卡发动。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107595', '雷电·碎晶灵', '此卡只能藉由献祭2只以上的雷族怪兽才能特殊召唤，此卡以正面表示存在我方场地上时，我方场地上所有冠有「雷电」之名的怪兽不受魔法·陷阱·怪兽卡的效果影响，我方怪兽战斗破坏对手的怪兽并送往墓地时，给对手生命值献祭的怪兽数量×500点的伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107596', '雷电·光芒的导师', '此卡只能藉由献祭2只雷族怪兽才能特殊召唤，只要此卡以正面表示存在场地上，场地上每有1只雷族怪兽，此卡的攻击·守备力各上升500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107597', '雷电・雷刀的侍卫', '此卡只能藉由献祭2只雷族怪兽才能特殊召唤，只要此卡宣告攻击，场地上每有1只雷族怪兽，该被此卡攻击的怪兽攻击·守备力各下降500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107598', '英豪挑战者 夜袭的提灯兵', '此卡攻击以守备表示的怪兽时，可以在伤害计算之前破坏那只怪兽。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107599', '英豪挑战者 赠予之剑', '以此卡为素材召唤的超量怪兽获得以下效果：●此次超量召唤成功时攻击力上升1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107600', '英豪冠军 超级草薙剑王', '等级6的战士族怪兽×3
+1回合1次，可以移除此卡的1个超量素材后发动效果，破坏对手场地上所有怪兽卡，每移除此卡的1个超量素材，此卡的攻击力上升500点，此卡被破坏时可用1个素材代替破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107601', '英豪冠军 英弓王', '等级4的战士族怪兽×2
+对手特殊召唤等级4以下的怪兽到场地上时，可以移除此卡的1个超量素材后发动效果，破坏该特殊召唤到场地上的怪兽，此效果1回合只能使用1次。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107602', '英豪冠军 斩铁剑王', '等级4的怪兽×2
+1回合1次，可以移除此卡的2个超量素材来发动效果，直到下1个对手的结束阶段为止，此卡的攻击力变为原攻击力的2倍。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107603', '纹章兽 黑巫师龙', '将我方场地上2只攻击力在900以上的怪兽作为祭品，可以从手牌中特殊召唤此卡。此卡召唤成功时，将对手场地上的1张魔法·陷阱卡破坏，只要此卡在场上以正面表示存在，场上以正面表示存在的等级4的通常怪兽不会被卡片效果破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107604', '天空五星', '我方场上等级5的怪兽正面表示存在时可以发动。把此怪兽作为祭品，从卡组·手牌·墓地特殊召唤栗子球五兄弟（「栗子球 克利波」、「栗子球 克利波」、「栗子球 克利巴」、「栗子球 克利比」、「栗子球 克利布」、「栗子球 克利百」）。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107605', '独角栗子球', '此卡不能通常召唤，将我方场上栗子球五兄弟排除到游戏外可以将此卡从卡组·手牌·墓地·游戏外特殊召唤。1回合1次，无需祭品可以使用栗子球五兄弟之一的效果。将场上此卡作祭品可以将游戏外的栗子球五兄弟特殊召唤到场上来。此卡的攻击力和防御力是栗子球五兄弟的攻击力和防御力总和。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107606', '海盗栗子球', '此卡不能通常召唤，只能在「栗子球 克利百」的效果下特殊召唤。牺牲此卡，查看自己卡组最上面5张卡，将怪兽卡送入墓地，其他卡加入手牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107607', '栗子球 克利布', '牺牲场上正面表示的此卡，对方场上所有怪兽的攻击力变为0。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107608', '栗子球 克利百', '牺牲场上正面表示的这张卡，将卡组·手牌·墓地的「海盗栗子球」特殊召唤到场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107609', '栗子球 克利比', '牺牲场上正面表示的这张卡，此回合我方怪兽可攻击两次。1回合1次，舍弃1张手牌将墓地1只名字带有「栗子球」的怪兽特殊召唤到场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107610', '栗子球 克利波', '从手牌丢弃这张卡，自己受到的战斗伤害一次为0。这个效果只能在对方的战斗回合使用。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107611', '栗子球 克利巴', '牺牲场上正面表示这张卡，获得对方场上一只怪兽的控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107612', '双头战马车', '1回合1次，可当作装备卡装备在名字带有「Walkuren」的怪兽上。1回合1次被装备的怪兽减少1半的攻击力和守备力可以直接攻击对方玩家。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107613', '毁灭型先行者', '8星暗属性怪兽×3
+此卡召唤成功时，从卡组选择1张名字带有「毁灭型」的怪兽特殊召唤上场。此召唤被卡的效果破坏时，对方受到被破坏的怪兽卡攻击力数值的伤害。1回合1次，把这张卡的1个超量素材取除选择以下一个效果发动。●对方场上有暗属性怪兽存在时，此卡可以无视对方场上的暗属性怪兽直接给予玩家直接伤害，伤害数值减半。●我方场上有暗属性怪兽存在时，将那卡送入墓地，给予对方那张卡攻击力一半的数值伤害，此效果伤害不会被无效化。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107614', '毁灭型暗杀龙', '8星怪兽×2
+这张卡不会被超量卡以外的卡战斗破坏。此卡发动攻击宣言时，选择场上1只怪兽，选择的怪兽攻击力与守备力数值互换。1回合1次，把这张卡的1个超量素材取除才能发动，此卡攻击的对象攻击力比此卡高时，每次战斗结束时，对方受到那个攻击力数值差的生命值伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107615', '毁灭型狂战龙斗士', '9星怪兽×3
+此卡可以通过「毁灭型先行者」的效果特殊召唤上场，此卡特殊召唤成功时，选择场上1只攻击力比此卡低的怪兽卡破坏，被此卡战斗破坏的怪兽卡，将作为此卡的素材使用。1回合1次，把这张卡的1个超量素材取除，对方每有受到1500点生命值伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107616', '英豪挑战者 阿奇里斯', '此卡献祭冠有「英豪挑战者」之名的怪兽特殊召唤成功时，我方场地上存在「英豪挑战者 海克陀」，此卡的原攻击力变成3400点，可以破坏对手场地上合计等级在8或以下的怪兽，此卡离开场地时，可以从我方的卡组特殊召唤1只「英豪挑战者」。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107617', '英豪挑战者 刺客剑士', '此卡被战斗破坏送往墓地时，下次我方回合的准备阶段时，我方墓地存在的「英豪挑战者 刺客剑士」以外1只冠有「英豪挑战者」之名的怪兽在我方场地上特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107618', '英豪挑战者 海克陀', '此卡以冠有「英豪挑战者」之名的怪兽特殊召唤成功时，我方场地上存在「英豪挑战者 阿奇里斯」，此卡的原守备力变成2800点，以正面表示的此卡因战斗而被破坏时，破坏此卡的怪兽被破坏，同时对手牌组最上面的3张牌送往墓地。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107619', 'No.88 机关傀儡 命运雄狮', '等级8的怪兽×3
+1回合1次，我方魔法·陷阱区域没有卡时，可以发动效果，移除此卡的1个超量素材，在此卡上面放置1个「命运指示物」，发动此效果的回合中，我方不能进入战斗阶段，此卡上面放置有3个「命运指示物」时，此卡的持有者获得比赛胜利。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107620', '尼白龙根的财宝', '通过将「尼白龙根之戒」放于对方场上后，让对方怪兽装备上此戒指，然后发动此卡可以从卡组抽5张卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107621', '来吧！狼吼！', '我方场地上存在冠有「热血兽王 狼吼」之名的怪兽时，将牌组1只兽战士族怪兽特殊召唤到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107622', '修行王国 修炼世界', '将手牌中2只怪兽送往墓地，可直接召唤手牌中等级7以上冠有「热血」之名的怪兽到场上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107623', '熊人训练营', '我方场地上存在冠有「热血兽王 熊人」之名的怪兽时，将牌组1只兽战士族怪兽特殊召唤到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107624', '废铁的巨战兵', '等级7的岩石族怪兽×2
+此卡不会受到其他怪兽的效果的影响，1回合1次，此回合结束时，此卡没有破坏对手场地上怪兽时，可以移除此卡的1个超量素材后，将此卡被送往墓地，在我方下回合，无视召唤条件召唤到场地上，此卡攻击力上升500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107625', '地核的巨战兵', '等级6的岩石族怪兽×2
+此卡不会受到其他怪兽的效果的影响，1回合1次，可以移除此卡的1个超量素材，对手召唤怪兽时，我方从牌组召唤2只等级与对手召唤的怪兽相同的怪兽，召唤的是岩石族怪兽时，此卡攻击力则上升岩石族怪兽×300的数值。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107626', '岩壁的巨战兵', '等级5的岩石族怪兽×2
+此卡不会受到其他怪兽的效果的影响，1回合1次，可以移除此卡的1个超量素材，然后此卡的攻击力上升1000点，并且我方的生命值不会受到对手的效果伤害，此效果在对手的回合中也可以使用。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107627', '龙帝国 忍兽夜隐', '我方以冠有「忍兽」之名的怪兽效果成功特殊召唤此卡时，可从我方手牌把1只等级4或以下冠有「忍兽」之名的怪兽，以正面表示特殊召唤到我方场地上。1回合1次，以正面表示存在我方场地上冠有「忍兽」之名的怪兽不会被陷阱·魔法卡·怪兽效果破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107628', '龙帝国 忍兽夜蜃', '「龙帝国 忍兽夜魂」+冠有「龙帝国」之名的怪兽
+融合召唤此卡的素材怪兽都冠有「忍兽」之名时，此卡的等级可以上升1或2。此卡成功融合召唤的下一个对手发动的陷阱、魔法卡、怪兽效果无效并破坏该卡。此效果在对手的回合也可以发动。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107629', '龙帝国 新星忍龙王', '等级9冠有「忍龙」之名的怪兽×2
+此卡成功超量召唤时，可确认对手的手牌后选1张送往墓地，移除此卡的1个超量素材后选择以下的1种效果发动：●选择对手场上的2只怪兽叠放在此卡下，作为此卡的超量素材●给对手生命值移除超量素材怪兽的攻击力数值的伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107630', '龙帝国 福津忍龙大师', '「龙帝国 虚雾忍龙」+冠有「龙帝国」之名的怪兽
+融合召唤此卡的素材怪兽都冠有「忍龙」之名时，此卡的等级可以上升1或2。1回合1次，我方冠有「忍龙」之名的怪兽成为对手的攻击对象时，我方被攻击对象的怪兽攻击·守备力上升1000点。此效果在对手的回合也可以发动。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107631', '龙帝国 血雾忍龙', '我方以冠有「忍龙」之名的怪兽成功特殊召唤此卡时，可从我方手牌把1只等级在此卡以下冠有「忍龙」之名的怪兽，以正面表示特殊召唤到我方场地上。此卡成功召唤的回合，对手不能召唤怪兽到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107632', '龙帝国 恐惧忍龙', '此卡升级召唤冠有「忍龙」之名的怪兽而送往墓地时，可以不送往墓地而拿回手牌中，再把1只存在于我方墓地中等级4或以下冠有「忍龙」之名的怪兽拿回手牌中。此效果不会被对手的陷阱·魔法卡·怪兽效果无效。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107633', '亚特兰提斯·巡弋战士', '从我方手牌·场地上舍弃此卡送往墓地时，可以破坏对手场地上合计等级在7或以下的怪兽，此效果成功发动的回合结束时，可选择舍弃我方手牌·场地上1只水属性怪兽送往墓地，此卡回到我方的手牌中。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107634', '亚特兰提斯·杂兵2号', '此卡以正面存在于我方的场地上时，我方场地上存在冠有「亚特兰提斯」之名的杂兵1号·3号·4号，每有1只不重复，此卡就有1次不会被魔法·陷阱卡·怪兽效果破坏，此效适用于双方的回合。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107635', '电子龙骑士 黄金之翼', '这张卡不能以超量召唤以外的方式特殊召唤。取除1个超量素材·从墓地特殊召唤1张名字带有「电子」的怪兽。用这个效果召唤的怪兽只能用作融合召唤的素材·没有超量素材的这张卡在回合结束时被破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107636', '六武圣徽', '只要此卡存在场上，手牌中名字带有「六武」的怪兽卡，可以无视召唤条件，直接召唤上场。此卡被破坏时，场上的怪兽卡可以再次发动攻击。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107637', '弑神之剑', '仅战士族怪兽可以装备。装备怪兽进行战斗的场合，攻击力只在伤害步骤结束前上升守备力的数值。此卡离开场上时，装备怪兽从游戏中除外。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107638', '光道·十字军库煞尔', '每次冠有「光道」之名的怪兽效果从我方牌组把卡送往墓地时，从牌组把1只等级6以下冠有「光道」之名的怪兽加入手牌，此效果在双方的回合都适用。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107160', '大脚怪', '喜欢把对方踩在脚下之际的快感的恶趣味的家伙。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('ZZ107639', '电子终结龙', '「电子龙」＋「电子龙」＋「电子龙」
+这只怪兽融合召唤只能用上记的卡进行。这张卡攻击守备表示的怪兽时，若攻击力超过那个守备力，给予对方基本分超过的那个数值的战斗伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107640', '威猛战士·巨石重拳', '「同步图书馆」＋墓地的同步怪兽3只
+此卡战斗破坏对手怪兽时，给对手生命值被破坏怪兽攻击力一半数值的伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107641', '异次元的复仇联合', '「异次元的女战士」＋「异次元的战士」
+1回合1次，可以把我方从游戏中除外的冠有「异次元」之名的怪兽特殊召唤到场地上，然后被此效果召唤到场上的怪兽可以同时攻击对手场上的1只怪兽，同时攻击的攻击力等于攻击怪兽的攻击力合计数值，此回合结束时，被此效果召唤到场上的怪兽从游戏中除外。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107642', '黑耀龙的忍者', '我方场地上每存在1只正面表示冠有「龙的忍者」之名的怪兽时，以正面表示存在我方场地上的此卡攻击力上升300点，此卡以守备表示存在我方场地上时，所有正面表示存在我方场地上冠有「龙的忍者」之名的怪兽攻击力上升300点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107643', '龙的咆哮', '冠有「龙的忍者」之名的怪兽才能装备，装备怪兽和对手怪兽进行战斗时，在战斗阶段内对手的怪兽效果无效化，装备怪兽的攻击力上升500点，装备怪兽破坏对手怪兽送往墓地时，给对手生命值我方场地上冠有「龙的忍者」之名的怪兽卡数量×200点的数值伤害，结束阶段时把此卡放入牌组并重洗牌组。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107644', '纹章的守护者', '此卡只能藉由献祭光属性怪兽才能召唤到场地上，此卡召唤成功时，破坏对手场地上暗属性怪兽，每破坏1只，此卡攻击力上升200点，1回合1次，我方场地上光属性怪兽不会被破坏，对手对我方的战斗伤害为0，此卡被破坏时，从我方墓地召唤1只光属性怪兽到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107645', '钢铁的战斗者', '此卡召唤成功时，把对手所有手牌送往墓地，然后抽出相同数量的卡，对手生命值受到被此效果送往墓地的卡片数量×100点的伤害，此卡被破坏时，从我方墓地召唤1只光属性怪兽到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107646', '猎豹的盗窃者', '反转：此卡从我方场地上送往墓地时，变成送往对手墓地，只要此卡存在对手墓地里，对手场地上等级4或以下的怪兽的控制权由我方控制，此卡被破坏时，从我方墓地召唤1只光属性怪兽到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107647', '黑羽的狩猎者', '对手场上有正面表示怪兽2只以上存在，而且所有怪兽的种族都相同时，可以把1张手牌送往墓地，然后选择对手场上正面表示存在的1只怪兽破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107648', '雪尘魔法大师', '等级8的水属性怪兽×2
+1回合1次，可移除此卡的1个超量素材来发动效果，对手场地上水属性怪兽不能发动效果，我方场地上每存在1只水属性怪兽，给对手生命值300点伤害。移除1个超量素材，对手场上以正面表示存在的水属性怪兽的控制权移给我方。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107649', '雪域', '我方场地上冠有「雪尘」之名的怪兽攻击力上升500点，1回合1次，把我方场上的水属性怪兽变成超量召唤的素材。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107650', '雪封', '此卡发动的回合，无效对手场上的魔法·陷阱卡，双方不能特殊召唤，场上水属性以外的怪兽攻击力下降一半。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107651', '雪尘·冰海鱼箭手', '只要此卡在场地上正面表示存在，对手的主要阶段有魔法卡发动时，可以从我方墓地特殊召唤1只等级7的水属性怪兽，此效果1回合只能使用1次。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107652', '雪尘·元素巨兵', '此卡正面表示存在我方场地上时，每次我方的回合，我方恢复200点生命值，对手场地上炎属性怪兽变成守备表示，此卡存在墓地时，每次我方的回合，给对手生命值200点的伤害，我方场地上水属性怪兽上升1个等级。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107653', '失落的雪城', '对手场地上有怪兽，我方场地上没有存在怪兽时，我方从墓地最多选择5张冠有「雪尘」之名的怪兽召唤到场地上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107654', '银翼 女武神华尔秋蕾', '此卡以冠有「银翼 女武神」之名的怪兽效果特殊召唤成功时，此卡的攻击力上升500点，此卡进行战斗的战斗阶段结束时可以让此卡回到牌组，然后从牌组把「银翼 女武神华尔秋蕾」以外的1只冠有「银翼 女武神」之名的怪兽在我方场地上特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107655', '黑羽-铠翼鸦', '名字带有「黑羽」的调整＋调整以外的怪兽1只以上
+这张卡不会被战斗破坏，这张卡的战斗发生的对自己的战斗伤害变成0。可以给这张卡攻击过的怪兽放置1个「楔指示物」（最多1个）。可以把对方怪兽放置的「楔指示物」全部取除，有「楔指示物」放置的怪兽的攻击力·守备力直到这个回合的结束阶段时变成0。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107656', '炎之剑士', '「火焰操纵者」+「传说的剑豪 正树」', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107657', '剑斗兽 独眼斗', '以高攻击力追逼敌人的独眼战熊。恐怖的速度与重量引以为傲的得意拳受了后不倒者是不存在的。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107658', '风灵使 薇茵', '反转：只要这张卡在场上正面表示存在，获得对方场上1只风属性怪兽的控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107659', '地灵使 奥丝', '反转：只要这张卡在场上正面表示存在，获得对方场上1只地属性怪兽的控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107660', '水灵使 艾莉娅', '反转：只要这张卡在场上正面表示存在，获得对方场上1只水属性怪兽的控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107661', '火灵使 希塔', '反转：只要这张卡在场上正面表示存在，获得对方场上1只炎属性怪兽的控制权。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107662', '古遗物-手里剑', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱区域放置。魔法与陷阱区域放置的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。这张卡由于战斗被破坏送入墓地时，可以选择我方魔法与陷阱区域1张卡代替此卡破坏送入墓地。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107663', '古遗物-双刃剑', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。这张卡正面攻击表示存在场上时，1回合1次，舍弃1张手牌，给予对方800点的生命值伤害。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107664', '古遗物-攻城锤', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。只要此卡在我方场上正面表示存在，对方不能选择其他名字带有「古遗物」的卡作为攻击对象。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107665', '古遗物-死神镰刀', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。这张卡特殊召唤成功的回合，可以选择对方1张覆盖的卡破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107666', '古遗物-圣骑士枪', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。选择我方场上的1张卡送入墓地，此卡攻击力上升500点。这个效果1回合只能发动1次。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107667', '古代的机械混沌融合', '①：可以将手牌的1张「融合」送入墓地，选自己额外卡组的1只「古代的机械」融合怪兽发动。按照那只融合怪兽决定的融合素材怪兽的数量，将从额外卡组特殊召唤的自己的墓地的怪兽除外，从自己的卡组、额外卡组或墓地无视召唤条件地特殊召唤那只融合怪兽决定的融合素材怪兽。用这个效果特殊召唤的怪兽的效果无效化，那之后将那些怪兽全部送入墓地，从额外卡组融合召唤这张卡发动时选的1只融合怪兽。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 
 PRAGMA foreign_keys = true;
