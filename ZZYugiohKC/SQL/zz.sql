@@ -10,7 +10,7 @@
  Target Server Version : 3030001
  File Encoding         : 65001
 
- Date: 28/02/2026 11:52:42
+ Date: 05/03/2026 11:06:47
 */
 
 PRAGMA foreign_keys = false;
@@ -1341,27 +1341,27 @@ INSERT INTO "datas" VALUES ('TSK00116', 0, 0, 0, 33, 1800, 1100, 4, 16384, 32, 0
 INSERT INTO "datas" VALUES ('TSK00117', 0, 0, 0, 33, 1800, 1500, 4, 16384, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00123', 0, 0, 0, 33, 2000, 1800, 7, 16384, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00124', 0, 0, 0, 33, 3000, 2000, 8, 2, 32, 0);
-INSERT INTO "datas" VALUES ('TSKT0130', 0, 0, 0, 33, 1500, 2100, 5, 8, 32, 0);
-INSERT INTO "datas" VALUES ('TSKT0133', 0, 0, 0, 33, 1650, 1800, 4, 16384, 1, 0);
+INSERT INTO "datas" VALUES ('TSK90130', 0, 0, 0, 33, 1500, 2100, 5, 8, 32, 0);
+INSERT INTO "datas" VALUES ('TSK90133', 0, 0, 0, 33, 1650, 1800, 4, 16384, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00136', 0, 0, 0, 33, 1700, 1500, 4, 16384, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00137', 0, 0, 0, 33, 1750, 2050, 5, 16384, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00142', 0, 0, 0, 33, 1500, 1300, 5, 8192, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00143', 0, 0, 0, 33, 2300, 1500, 7, 64, 2, 0);
-INSERT INTO "datas" VALUES ('TSKT0144', 0, 0, 0, 33, 2300, 1500, 6, -106, 16, 0);
+INSERT INTO "datas" VALUES ('TSK90144', 0, 0, 0, 33, 2300, 1500, 6, -106, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00148', 0, 0, 0, 33, 1900, 1700, 6, 524288, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00151', 0, 0, 0, 33, 3800, 2500, 9, -106, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00155', 0, 0, 0, 33, 2300, 1300, 7, 8, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00160', 0, 0, 0, 33, 1000, 1200, 4, 1024, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00161', 0, 0, 0, 33, 1700, 1350, 5, 16, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00162', 0, 0, 0, 33, -2, 2300, 8, -106, 16, 0);
-INSERT INTO "datas" VALUES ('TSKT0167', 0, 0, 0, 33, 1500, 1200, 6, 1, 32, 0);
+INSERT INTO "datas" VALUES ('TSK90167', 0, 0, 0, 33, 1500, 1200, 6, 1, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00194', 0, 0, 0, 33, 2500, 1800, 7, 1, 64, 0);
 INSERT INTO "datas" VALUES ('TSK00195', 0, 0, 0, 33554465, 3000, 2400, 9, 8192, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00283', 0, 0, 0, 33, 900, 700, 7, 1, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00314', 0, 0, 0, 2097185, 450, 500, 4, 8, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00336', 0, 0, 0, 33, 850, 1200, 3, 32, 1, 0);
 INSERT INTO "datas" VALUES ('TSK00339', 0, 0, 0, 33, 1550, 1800, 5, 1, 1, 0);
-INSERT INTO "datas" VALUES ('TSKT0343', 0, 0, 0, 33, 1400, 900, 4, 1, 16, 0);
+INSERT INTO "datas" VALUES ('TSK90343', 0, 0, 0, 33, 1400, 900, 4, 1, 16, 0);
 INSERT INTO "datas" VALUES ('TSK00343', 0, 0, 0, 33, 1400, 1000, 5, 8, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00344', 0, 0, 0, 33, 2500, 1200, 7, 8, 32, 0);
 INSERT INTO "datas" VALUES ('TSK00345', 0, 0, 0, 33, 2700, 1500, 7, 4, 16, 0);
@@ -8765,6 +8765,43 @@ INSERT INTO "datas" VALUES ('ZZ107664', '', '', '', 33, 2100, 2200, 5, 4, 16, ''
 INSERT INTO "datas" VALUES ('ZZ107665', '', '', '', 33, 2200, 2100, 5, 4, 16, '');
 INSERT INTO "datas" VALUES ('ZZ107666', '', '', '', 33, 2300, 1800, 5, 4, 16, '');
 INSERT INTO "datas" VALUES ('ZZ107667', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK90342', '', '', '', 33, 900, 500, 3, 512, 2, '');
+INSERT INTO "datas" VALUES ('TSK90347', '', '', '', 33554465, 2000, 1700, 6, 8, 32, '');
+INSERT INTO "datas" VALUES ('ZZ107668', '', '', '', 17, 2100, 1600, 7, 8192, 32, '');
+INSERT INTO "datas" VALUES ('TSK00391', '', '', '', 33, 1300, 1350, 4, 16, 16, '');
+INSERT INTO "datas" VALUES ('TSK00416', '', '', '', 130, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00420', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00396', '', '', '', 17, 1250, 1600, 4, 32, 16, '');
+INSERT INTO "datas" VALUES ('TSK00402', '', '', '', 65538, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00409', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00408', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK90409', '', '', '', 262146, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00412', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00415', '', '', '', 524290, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK90372', '', '', '', 17, 700, 500, 2, 2, 1, '');
+INSERT INTO "datas" VALUES ('TSK00386', '', '', '', 33, 1300, 1200, 5, 8192, 16, '');
+INSERT INTO "datas" VALUES ('TSK00390', '', '', '', 33, 1900, 1200, 5, 4, 16, '');
+INSERT INTO "datas" VALUES ('TSK90363', '', '', '', 17, 1750, 500, 4, 512, 8, '');
+INSERT INTO "datas" VALUES ('TSK90350', '', '', '', 33, 1500, 800, 4, 2, 32, '');
+INSERT INTO "datas" VALUES ('TSK90355', '', '', '', 17, 700, 300, 2, 64, 2, '');
+INSERT INTO "datas" VALUES ('TSK00215', '', '', '', 33, 2200, 1500, 6, 256, 16, '');
+INSERT INTO "datas" VALUES ('TSK00224', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00228', '', '', '', 33, 2000, 1700, 6, 2, 16, '');
+INSERT INTO "datas" VALUES ('TSK00232', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00260', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00261', '', '', '', 2, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00264', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK00410', '', '', '', 4, -4, -4, 0, 0, 0, '');
+INSERT INTO "datas" VALUES ('TSK90352', 0, 0, 0, 33, 1800, 1600, 5, 8192, 4, 0);
+INSERT INTO "datas" VALUES ('TSK90356', 0, 0, 0, 33, 1500, 1000, 2, 32, 4, 0);
+INSERT INTO "datas" VALUES ('TSK90357', 0, 0, 0, 17, 1650, 1350, 4, 16384, 2, 0);
+INSERT INTO "datas" VALUES ('TSK90360', 0, 0, 0, 33, 500, 800, 2, 16384, 1, 0);
+INSERT INTO "datas" VALUES ('TSK90366', 0, 0, 0, 17, 1800, 1500, 5, 16384, 1, 0);
+INSERT INTO "datas" VALUES ('TSK90368', 0, 0, 0, 33, 1300, 600, 5, 2, 4, 0);
+INSERT INTO "datas" VALUES ('TSK90373', 0, 0, 0, 33, 400, 600, 2, 2, 8, 0);
+INSERT INTO "datas" VALUES ('TSK90375', 0, 0, 0, 33, 300, 200, 1, 8, 32, 0);
+INSERT INTO "datas" VALUES ('TSK90378', 0, 0, 0, 33, 1600, 1000, 4, 32, 16, 0);
+INSERT INTO "datas" VALUES ('TSK90349', 0, 0, 0, 17, 1800, 600, 4, 1, 1, 0);
 
 -- ----------------------------
 -- Table structure for texts
@@ -10522,13 +10559,13 @@ INSERT INTO "texts" VALUES ('TSK00116', '金色的魔像', '此卡发动时，�
 INSERT INTO "texts" VALUES ('TSK00117', '蓝猫', '当这张卡片因战斗而被送往墓地时，可从牌组里召唤一只攻击力在1500以下的怪兽（不用祭品）。之后牌组进行洗牌。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00123', '黑暗怒猫', '此卡存在场上时，所有陷阱卡无法发动。支付300点的生命值，可以进行特殊召唤。此卡在战斗中可以破坏以防守表示的怪兽，被破坏的怪兽防守力减半。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00124', '黑魔术师', '此牌成功召唤·特殊召唤时，可以从自己的墓地中选择一只怪兽加入到自己的手牌中。在战斗中此牌破坏的怪兽被排除出游戏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('TSKT0130', '黑暗佐拉', '从异界召唤出来的单眼的恶魔！防守能力极高的恶魔族怪兽。战场上一只暗属性怪兽的攻击力提高 600 点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('TSKT0133', '魔界的战士', '当此卡片翻到正面时，对方场上设置的每一张魔法、陷阱卡都将让对方受到500点的损伤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90130', '黑暗佐拉', '从异界召唤出来的单眼的恶魔！防守能力极高的恶魔族怪兽。战场上一只暗属性怪兽的攻击力提高 600 点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90133', '魔界的战士', '当此卡片翻到正面时，对方场上设置的每一张魔法、陷阱卡都将让对方受到500点的损伤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00136', '狂暴盔甲兽', '对方场上存在一只怪兽，此卡片的攻击力就可上升500点。攻击守备表示的怪兽时，只要攻击力超过其守备力的话，超过的数值就可直接伤害对手的生命点数。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00137', '灰色灵象', '攻击以守备表达的此卡片之怪兽，若攻击力比这张卡片还低时，该攻击怪兽就会破坏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00142', '深海巨龙', '如果深海巨龙从场上配送往墓地的话，在该回合结束时深海巨龙会以攻击力与守备力皆为1000点的状态再度被特殊召唤到场上来。该效果在每次决斗中只能使用一次。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00143', '海上仙鹤', '使场上所有水属性怪兽的攻击力上升500点。炎属性怪兽攻击力降低400点。将我方场上的怪兽作为祭品，并以该怪兽攻击力的一半直接伤害对方。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('TSKT0144', '圣鸟', '当此卡被成功召唤时，破坏对手场上一只暗属性怪兽。此卡正面表示时，对手不能发动魔法卡、陷阱卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90144', '圣鸟', '当此卡被成功召唤时，破坏对手场上一只暗属性怪兽。此卡正面表示时，对手不能发动魔法卡、陷阱卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00148', '千年巨蛇', '当这张卡转由对手控制时，对方会受到2000点的损害，该效果一回合只能使用一次。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00151', '正义使者佤奇', '此卡以战斗将怪兽破坏并送往墓地时，自己的生命点可以回复与被破坏怪兽攻击力相等的数值。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00155', '蝙蝠人克雷斯', '当场上存在6级以上怪兽时可以召唤。成功召唤此卡，破坏对方的一张陷阱卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
@@ -10536,14 +10573,14 @@ INSERT INTO "texts" VALUES ('TSK00160', '巨舌荆棘', '只要此卡正面表�
 INSERT INTO "texts" VALUES ('TSK00161', '不死骷髅战士', '此卡以正面表示存在场上时，将对手场上一只正面表示形态的怪兽加以破坏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00162', '水与火的化身', '·此卡的攻击力为自己场上和墓地里水、炎属性怪兽数量 x300 点。
 ·对手场上存在水、炎属性怪兽的数量，此卡的守备力增加每张怪兽 x100 点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('TSKT0167', '大力士达斯塔夫', '每次自己的待命阶段时，对手的生命点数受到600点的损伤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90167', '大力士达斯塔夫', '每次自己的待命阶段时，对手的生命点数受到600点的损伤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00194', '传说的剑客', '在一回合内可以一度让此卡片的攻击力加倍。使用这个效果之后，在该回合结束时此卡片会被破坏。其攻击力为此卡片的原来的攻击力。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00195', '五首神龙', '此卡无法进行普通召唤，必须将自己墓地里的光属性与暗属性怪兽各一只从游戏中剔除才能进行特殊召唤。只要支付1000点生命点，就能将双方手牌与场上的所有卡片送进墓地。被此效果送进墓地的每一张卡片都能让对方受到500点损伤。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00283', '服从', '对方场上与墓地里每存在一只龙族怪物，此卡的攻击力就上升500点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00314', '野兽的合体', '当它翻到正面时，可让场上任一怪兽回到手牌中。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00336', '激斗战士-枪手', '对「激斗战士-枪手」发动攻击的不死族以外的怪物，下回合变成守备显示。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00339', '野人-1', '我方场上每存在一张正面显示的「野人-2」，守备力就可上升500点！', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
-INSERT INTO "texts" VALUES ('TSKT0343', '元素英雄 透明人', '可以从自己的目的或者对方的墓地里把一只名字带有「元素英雄」光属性的怪兽特殊召唤到场上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90343', '元素英雄 透明人', '可以从自己的目的或者对方的墓地里把一只名字带有「元素英雄」光属性的怪兽特殊召唤到场上。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00343', '齿轮之魔母', '如果每有一张「齿轮」字样的卡片在场上表示，这张卡攻击力守备力各提高300点。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00344', '虚无的暗女神', '此卡不能特殊召唤。只要此卡在场上表侧表示存在，对方暗属性的怪兽不能进行特殊召唤怪兽。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 INSERT INTO "texts" VALUES ('TSK00345', '虚无的光女神', '此卡不能特殊召唤。只要此卡在场上表侧表示存在，对方光属性的怪兽不能进行特殊召唤怪兽。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
@@ -25062,5 +25099,44 @@ INSERT INTO "texts" VALUES ('ZZ107664', '古遗物-攻城锤', '这张卡可以�
 INSERT INTO "texts" VALUES ('ZZ107665', '古遗物-死神镰刀', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。这张卡特殊召唤成功的回合，可以选择对方1张覆盖的卡破坏。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO "texts" VALUES ('ZZ107666', '古遗物-圣骑士枪', '这张卡可以当作魔法卡使用从手牌到魔法与陷阱卡区域盖放。魔法与陷阱卡区域盖放的这张卡在对方回合被破坏送去墓地时，这张卡特殊召唤。选择我方场上的1张卡送入墓地，此卡攻击力上升500点。这个效果1回合只能发动1次。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO "texts" VALUES ('ZZ107667', '古代的机械混沌融合', '①：可以将手牌的1张「融合」送入墓地，选自己额外卡组的1只「古代的机械」融合怪兽发动。按照那只融合怪兽决定的融合素材怪兽的数量，将从额外卡组特殊召唤的自己的墓地的怪兽除外，从自己的卡组、额外卡组或墓地无视召唤条件地特殊召唤那只融合怪兽决定的融合素材怪兽。用这个效果特殊召唤的怪兽的效果无效化，那之后将那些怪兽全部送入墓地，从额外卡组融合召唤这张卡发动时选的1只融合怪兽。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90342', '玩具商人', '可爱的外表拥有迷惑人心的力量。只要「玩具商人」以正面方式留在场上，场上所有水属性的怪物攻击力全部提升300点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90347', '地狱杀手之烟魔', '此卡不能通常召唤。把自己墓地的2只暗属性·恶魔族怪兽从游戏中除外的场合才能特殊召唤。可以支付500基本分，把场上的魔法·陷阱卡全部送去墓地，可以从自己的墓地抽1张卡到手卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('ZZ107668', '黑暗龙王', '从口中吐出的烈焰是其最大的武器！', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00391', '干尸鸟', '此怪兽可以直接攻击对方玩家。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00416', '白骨的聚会', '此卡翻面时，可以从以下效果中选择一项发动：
+·不死族的怪兽攻击力上升300点。
+·能「魔兽 地狱破坏者」降临。必须从场地或手牌中，献上星星数合计6个以上的祭品才能召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00420', '金属盔甲', '可装备在任何怪兽身上，攻击力和守备力各上升500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00396', '空心恶魔', '喜欢以巨大的尖爪把人的心挖出来折磨敌人，是非常凶恶的怪兽。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00402', '突袭', '在该回合让1只怪兽的攻击力上升600点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00409', '魔界的通道', '在此卡翻面后，每回合恶魔族的守备力上升300点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00408', '白龙展翅', '我方场上的一张等级五以上怪兽回到手牌中，可以破坏掉双方场上的所有魔法·陷阱卡。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90409', '猎人的猎枪', '能让怪兽的攻击力上升500点，同时守备也下降500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00412', '被困的魔兽', '只要这张卡存在，就可以指定一只怪兽无法攻击。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00415', '移动的城堡', '能一回合将敌方场上的魔法卡、陷阱卡移到我方场上进行发动。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90372', '锁链使用者', '全身都挂满锁链的怪兽。是「魔法守护者」融合材料之一。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00386', '飞天白龙', '只要我方场上有一只龙族的怪兽，此怪兽的攻击和守备力各上升500点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00390', '白翼天使', '只要此卡在场上，每轮到我方待命阶段时可以回复300点的生命值。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90363', '七彩鸟', '鲜艳的色外和炫耀的性格，总是会给他招来很多麻烦。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90350', '斩杀使者', '只能以反转召唤方式召唤，可做「地狱的法师尊者」的仪式祭品，每当敌方有一只魔法使者族的怪兽存在，这只怪兽的攻击力下降100点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90355', '血红蟹', '有着一只超大的钳子的红蟹。常以自己很厉害到处找架打。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00215', '蓝水晶', '这张卡片每回合可进入背面守备状态一次。当成功以反转召唤方式召唤出此卡时，将所有敌方场上怪兽送回拥有者的手牌上。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00224', '被束缚的闪电战士', '舍弃一张手牌，将1张存在于自己墓地里的怪兽牌加到手牌里。在攻击怪兽的攻击力低于攻击对象怪兽的攻击力时，攻击怪兽的攻击力只在进行伤害计算时加上1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00228', '魔法师女孩', '当此卡片转为攻击表示时，可以当场将场上任何一只龙族怪兽破坏。当此卡翻到正面时，可让场上两只怪兽回到拥有者的手牌里。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00232', '地狱灵魂', '发动魔法牌的时候，每1个控制器将被破坏1000点。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00260', '恶魔的进攻', '以表侧守备而在战场上出现时会破坏此卡，此卡控制者处在此卡可能控制的状态的时候就必须攻击。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00261', '永久的争夺', '把自己手卡2张牌返回底牌中，之后对底牌进行洗牌。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00264', '被镇压的人民', '选择对手领地上表侧表示存在的怪兽1只，把与选择了的怪兽相同等级的1只怪兽从自己手中牌中进行特殊召唤。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK00410', '束缚的藤条', '支付500点的生命值此卡才能发动。能上对方所有怪兽的攻击减半。', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO "texts" VALUES ('TSK90352', '愤怒的暴龙', '当此卡为攻击状态时，将对方场上一只四星以下的怪兽送往墓地。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90356', '喷火魔', '每当轮到我方的待命阶段时，可指定敌方场上的一只怪兽。该怪兽的攻击力下降500直到回合结束。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90357', '异次元之马-1', '可以在天上、水里都来去自如的异次元之马。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90360', '卡片商人', '此卡翻面表示时，可以从墓地召唤一只怪兽回到手卡。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90366', '经文之马', '传说之马，以极速的奔驰来攻击敌人。愤怒的时候全身会布满奇怪的经文。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90368', '珠的操纵者 克斯', '当此卡被破坏时，敌方攻击本身也会遭到破坏。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90373', '献祭之女', '当此卡受到攻击时，敌方攻击的怪兽会连同此卡一起从游戏中剔除。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90375', '使小刀小鬼', '当此卡从手牌中丢弃时，可以抵消一次敌方对我方的伤害。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90378', '外星猎人', '将此卡从手牌弃入墓地。我方场上存在的「外星猎人」一次战斗无效，直到下次战斗结束时攻击力上升1000点。此效果在对方回合也能发动。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
+INSERT INTO "texts" VALUES ('TSK90349', '长臂巨人', '据说它有着伸缩自如的手臂，在敌人还没靠近之就把敌人解决掉了。', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL);
 
 PRAGMA foreign_keys = true;
